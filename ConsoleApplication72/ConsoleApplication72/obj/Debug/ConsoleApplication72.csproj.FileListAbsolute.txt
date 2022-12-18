@@ -1,0 +1,20 @@
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication72\ConsoleApplication72\bin\Debug\ConsoleApplication72.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication72\ConsoleApplication72\bin\Debug\ConsoleApplication72.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication72\ConsoleApplication72\bin\Debug\ConsoleApplication72.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication72\ConsoleApplication72\obj\Debug\ConsoleApplication72.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication72\ConsoleApplication72\obj\Debug\ConsoleApplication72.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication72\ConsoleApplication72\obj\Debug\ConsoleApplication72.pdb
+C:\Users\yusuf\Desktop\ConsoleApplication72\ConsoleApplication72\bin\Debug\ConsoleApplication72.exe.config
+C:\Users\yusuf\Desktop\ConsoleApplication72\ConsoleApplication72\bin\Debug\ConsoleApplication72.exe
+C:\Users\yusuf\Desktop\ConsoleApplication72\ConsoleApplication72\bin\Debug\ConsoleApplication72.pdb
+C:\Users\yusuf\Desktop\ConsoleApplication72\ConsoleApplication72\obj\Debug\ConsoleApplication72.csprojAssemblyReference.cache
+C:\Users\yusuf\Desktop\ConsoleApplication72\ConsoleApplication72\obj\Debug\ConsoleApplication72.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\ConsoleApplication72\ConsoleApplication72\obj\Debug\ConsoleApplication72.exe
+C:\Users\yusuf\Desktop\ConsoleApplication72\ConsoleApplication72\obj\Debug\ConsoleApplication72.pdb
+C:\Users\Yusuf-gürbüz\Desktop\GitHub Projelerim\ConsoleApplication72\ConsoleApplication72\bin\Debug\ConsoleApplication72.exe.config
+C:\Users\Yusuf-gürbüz\Desktop\GitHub Projelerim\ConsoleApplication72\ConsoleApplication72\bin\Debug\ConsoleApplication72.exe
+C:\Users\Yusuf-gürbüz\Desktop\GitHub Projelerim\ConsoleApplication72\ConsoleApplication72\bin\Debug\ConsoleApplication72.pdb
+C:\Users\Yusuf-gürbüz\Desktop\GitHub Projelerim\ConsoleApplication72\ConsoleApplication72\obj\Debug\ConsoleApplication72.csprojAssemblyReference.cache
+C:\Users\Yusuf-gürbüz\Desktop\GitHub Projelerim\ConsoleApplication72\ConsoleApplication72\obj\Debug\ConsoleApplication72.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf-gürbüz\Desktop\GitHub Projelerim\ConsoleApplication72\ConsoleApplication72\obj\Debug\ConsoleApplication72.exe
+C:\Users\Yusuf-gürbüz\Desktop\GitHub Projelerim\ConsoleApplication72\ConsoleApplication72\obj\Debug\ConsoleApplication72.pdb
